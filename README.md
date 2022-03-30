@@ -18,7 +18,7 @@
 </div>
 
 <div>
-  <p><img align = "left " alt = "pac-man" src="https://user-images.githubusercontent.com/73564090/130124958-eed7abac-a150-4d19-8355-6d106cc2c6b6.gif" height="200" width="450">
+  <p><img align = "left " alt = "pac-man" src="https://user-images.githubusercontent.com/73564090/130124958-eed7abac-a150-4d19-8355-6d106cc2c6b6.gif" height="200" width="200">
   &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=miguets&show_icons=true&locale=en" alt="miguets"/>
   </p>
 </div>
