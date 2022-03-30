@@ -1,17 +1,28 @@
-<div align ="center">
-  <p><strong>Hi😀✋</strong></p>
+<div align ="left">
+  <p><strong><h1>Hi, i'm Miguel Angel <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1></strong><img align = "right" alt = "bong-cat-coding" src="https://user-images.githubusercontent.com/73564090/160729928-c0b81eb6-535f-4dc0-a253-3cb6e173c33d.gif" height="150" width="250"></p>
+  <p>A sophomore in Computer Systems, video games & codding enthusiast 🙇‍♂️ </p>
+</div>
+ 
+
+<div>
+  <h3 align="left">Languages and Tools:</h3>
+  <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
+
+<div>
+  <h3 align="left">Where to find me:</h3>
+  <p align="left">
+  <a href="https://twitter.com/miguetss" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73564090/160727069-d30daf95-c76d-40af-abd1-0a8d236a0200.png" alt="https://twitter.com/miguetss" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/miguets/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73564090/160727071-cc0095a3-fefb-4f4a-8c9a-8c139fb9df13.png" alt="https://www.linkedin.com/in/miguets/" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/https://codeforces.com/profile/miguets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/miguets" height="30" width="40" /></a></p>
+</div>
+
+<div>
+  <p><img align = "left " alt = "pac-man" src="https://user-images.githubusercontent.com/73564090/130124958-eed7abac-a150-4d19-8355-6d106cc2c6b6.gif" height="200" width="450">
+  &nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=miguets&show_icons=true&locale=en" alt="miguets"/>
+  </p>
 </div>
 
 <div align = "right">
- <p></p>
+ <p> <img src="https://komarev.com/ghpvc/?username=miguets&label=Profile%20views&color=0e75b6&style=flat" alt="miguets" /> </p>
 </div>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguets" alt="miguets" /></a> </p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguets&show_icons=true&locale=en" alt="miguets" /></p>
-
- <p><img align = "center "src="https://user-images.githubusercontent.com/73564090/130124958-eed7abac-a150-4d19-8355-6d106cc2c6b6.gif" height="300" width="600"></p>
