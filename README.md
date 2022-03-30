@@ -14,7 +14,7 @@
   <p align="left">
   <a href="https://twitter.com/miguetss" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73564090/160727069-d30daf95-c76d-40af-abd1-0a8d236a0200.png" alt="twitter-miguets" height="40" width="40" /></a>
   <a href="https://linkedin.com/in/miguets/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73564090/160727071-cc0095a3-fefb-4f4a-8c9a-8c139fb9df13.png" alt="linkedin-miguets" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/miguets" target="blank"></a></p>
+  <a href="https://codeforces.com/profile/miguets" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73564090/160732554-6559a3a6-5029-4e1b-a891-be610f44fcd6.png" alt="codeforces-miguets" height="30" width="40" /></a></p>
 </div>
 
 <div>
