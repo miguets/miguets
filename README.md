@@ -12,9 +12,9 @@
 <div>
   <h3 align="left">Where to find me:</h3>
   <p align="left">
-  <a href="https://twitter.com/miguetss" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73564090/160727069-d30daf95-c76d-40af-abd1-0a8d236a0200.png" alt="https://twitter.com/miguetss" height="40" width="40" /></a>
-  <a href="https://linkedin.com/in/miguets/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73564090/160727071-cc0095a3-fefb-4f4a-8c9a-8c139fb9df13.png" alt="https://www.linkedin.com/in/miguets/" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/https://codeforces.com/profile/miguets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/miguets" height="30" width="40" /></a></p>
+  <a href="https://twitter.com/miguetss" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73564090/160727069-d30daf95-c76d-40af-abd1-0a8d236a0200.png" alt="twitter-miguets" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/miguets/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/73564090/160727071-cc0095a3-fefb-4f4a-8c9a-8c139fb9df13.png" alt="linkedin-miguets" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/miguets" target="blank"></a></p>
 </div>
 
 <div>
