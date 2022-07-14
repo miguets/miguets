@@ -1,5 +1,5 @@
 <div align ="left">
-  <p><strong><h1>Hi, i'm Miguel Angel <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="1 px"  height= "50 px"></h1></strong><img align = "right" alt = "bong-cat-coding" src="https://user-images.githubusercontent.com/73564090/160729928-c0b81eb6-535f-4dc0-a253-3cb6e173c33d.gif" height="150" width="150 px"></p>
+  <p><strong><h1>Hi, i'm Miguel Angel <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50 px"  height= "50 px"></h1></strong><img align = "right" alt = "bong-cat-coding" src="https://user-images.githubusercontent.com/73564090/160729928-c0b81eb6-535f-4dc0-a253-3cb6e173c33d.gif" height="150" width="150 px"></p>
   <p>A sophomore in Computer Systems, video games & coding enthusiast 🙇‍♂️ </p>
 </div>
  
