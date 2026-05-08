@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Hi, I'm Miguel Angel <img src="https://user-images.githubusercontent.com/73564090/186991353-e47580f4-ec42-4d29-a7e9-bd652218cd9b.gif" width="35" /></h1>
   <p><em>A Computer Systems Engineering student, video games & coding enthusiast 🙇‍♂️</em></p>
+    <img alt="bong-cat-coding" src="https://user-images.githubusercontent.com/73564090/160729928-c0b81eb6-535f-4dc0-a253-3cb6e173c33d.gif" height="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <br>
   <img src="https://komarev.com/ghpvc/?username=miguets&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
@@ -37,19 +40,14 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/miguets/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/miguetss" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://codeforces.com/profile/miguets" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://omegaup.com/profile/miguets/" target="_blank"><img src="https://img.shields.io/badge/OmegaUp-333333?style=for-the-badge&logo=codeforces&logoColor=white" alt="OmegaUp" /></a>
 </div>
 
 ---
 
-### 📊 GitHub Stats & Fun
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguets&show_icons=true&theme=tokyonight&hide_border=true" alt="Miguel's GitHub Stats" />
-  <br><br>
-  <img alt="bong-cat-coding" src="https://user-images.githubusercontent.com/73564090/160729928-c0b81eb6-535f-4dc0-a253-3cb6e173c33d.gif" height="120" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="pac-man" src="https://user-images.githubusercontent.com/73564090/130124958-eed7abac-a150-4d19-8355-6d106cc2c6b6.gif" height="120" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miguets&theme=dark&hide_border=true&border_radius=5.1" alt="GitHub Streak" /></a>
 </div>
