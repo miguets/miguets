@@ -8,11 +8,9 @@
 
 ### 👨‍💻 About Me
 
-* 📱 Currently focusing on **Native Android Development** using **Kotlin**, **Jetpack Compose**, and the **MVVM** architecture.
+* 💻 Deeply focused on **Software Development**, with a strong interest in **Computer Vision** and **Artificial Intelligence**.
 * 🎓 Developing my degree project: a native Android app for a **"Sistema Móvil con Pastillero Inteligente"** (Smart Pillbox Mobile System).
 * ☁️ Exploring **Cloud Computing** with Google Cloud Platform (GCP) and managing deployments via WSL/Ubuntu environments.
-* 📜 Working towards completing my backend development certification through the **Oracle Next Education (ONE)** program.
-* 🌐 Interested in network administration and simulation using tools like GNS3 and Cisco.
 * 🎮 When I'm not coding, you can find me at the gym, running, or playing online deduction/strategy games.
 
 ---
