@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Miguel Angel <img src="https://user-images.githubusercontent.com/73564090/186991353-e47580f4-ec42-4d29-a7e9-bd652218cd9b.gif" width="35" /></h1>
-  <p><em>A Computer Systems Engineering student, video games & coding enthusiast 🙇‍♂️</em></p>
+  <p><em>A Computer Systems Engineering student, video games & coding enthusiast </em></p>
     <img alt="bong-cat-coding" src="https://user-images.githubusercontent.com/73564090/160729928-c0b81eb6-535f-4dc0-a253-3cb6e173c33d.gif" height="200" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <br>
@@ -9,12 +9,12 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-* 💻 Deeply focused on **Software Development**, with a strong interest in **Computer Vision** and **Artificial Intelligence**.
-* 🎓 Developing my degree project: a native Android app for a **"Sistema Móvil con Pastillero Inteligente"** (Smart Pillbox Mobile System).
-* ☁️ Exploring **Cloud Computing** with Google Cloud Platform (GCP) and managing deployments via WSL/Ubuntu environments.
-* 🎮 When I'm not coding, you can find me at the gym, running, or playing online deduction/strategy games.
+*  Deeply focused on **Software Development**, with a strong interest in **Computer Vision** and **Artificial Intelligence**.
+*  Developing my degree project: a native Android app for a **"Sistema Móvil con Pastillero Inteligente"** (Smart Pillbox Mobile System).
+*  Exploring **Cloud Computing** with Google Cloud Platform (GCP) and managing deployments via WSL/Ubuntu environments.
+*  When I'm not coding, you can find me at the gym, running, or playing online deduction/strategy games.
 
 ---
 
@@ -36,7 +36,7 @@
 
 ---
 
-### 📫 Where to find me
+###  Where to find me
 
 <div align="center">
   <a href="https://linkedin.com/in/miguets/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miguets&theme=dark&hide_border=true&border_radius=5.1" alt="GitHub Streak" /></a>
